@@ -24,6 +24,6 @@ return remainder
 end
 
 def square_root(num)
-exponent = sqrt(num)
+exponent = Integer.sqrt(num)
 return exponent
 end
