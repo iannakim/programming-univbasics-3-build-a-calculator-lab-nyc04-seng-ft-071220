@@ -24,5 +24,6 @@ return remainder
 end
 
 def square_root(num)
-
+exponent = num1 ** num2
+return exponent
 end
