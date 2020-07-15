@@ -24,6 +24,6 @@ return remainder
 end
 
 def square_root(num)
-exponent = num**num
+exponent = sqrt(num)
 return exponent
 end
